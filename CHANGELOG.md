@@ -180,4 +180,11 @@ Ce projet suit le [Versioning sémantique](https://semver.org/lang/fr/).
 - changed: hacs.json
 - changed: custom_components/blaze_powerzone/icon@2x.png
 
+## v1.0.13 - 2026-05-13
+
+- fix: use official HA brand folder for integration icons
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+- changed: custom_components/blaze_powerzone/brand/
+
 

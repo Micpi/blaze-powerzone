@@ -172,4 +172,12 @@ Ce projet suit le [Versioning sémantique](https://semver.org/lang/fr/).
 - changed: custom_components/blaze_powerzone/manifest.json
 - changed: hacs.json
 
+## v1.0.12 - 2026-05-13
+
+- fix: interlaced 256×256 icon per HA Brands specs (RGBA, progressive, transparent)
+- changed: custom_components/blaze_powerzone/icon.png
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+- changed: custom_components/blaze_powerzone/icon@2x.png
+
 

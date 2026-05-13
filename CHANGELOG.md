@@ -165,4 +165,11 @@ Ce projet suit le [Versioning sémantique](https://semver.org/lang/fr/).
 - changed: custom_components/blaze_powerzone/manifest.json
 - changed: hacs.json
 
+## v1.0.11 - 2026-05-13
+
+- fix: resize icon to 256x256 pixels (HA standard)
+- changed: custom_components/blaze_powerzone/icon.png
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+
 

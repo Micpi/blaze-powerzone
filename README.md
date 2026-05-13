@@ -11,6 +11,8 @@
 Contrôlez vos amplificateurs de sonorisation professionnels directement depuis votre tableau de bord HA,
 avec découverte automatique réseau, polling temps réel et accès à tous les paramètres DSP.
 
+<img src="../img/devices.png" alt="Blaze devices" width="500" />
+
 </div>
 
 ---

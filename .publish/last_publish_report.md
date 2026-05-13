@@ -1,7 +1,7 @@
 # Publish Report
 
-- Date: 2026-05-13 15:25:33
-- Version: v1.0.8
+- Date: 2026-05-13 15:29:52
+- Version: v1.0.9
 - Commit message: feat(integration): publish blaze-powerzone
 
 ## Changed files

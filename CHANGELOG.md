@@ -267,4 +267,10 @@ Ce projet suit le [Versioning sémantique](https://semver.org/lang/fr/).
 - changed: custom_components/blaze_powerzone/manifest.json
 - changed: hacs.json
 
+## v1.0.9 - 2026-05-13
+
+- feat(integration): publish blaze-powerzone
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+
 

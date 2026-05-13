@@ -8,4 +8,10 @@
 - changed: custom_components/
 - changed: hacs.json
 
+## v1.0.2 - 2026-05-13
+
+- feat(integration): publish blaze-powerzone
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+
 

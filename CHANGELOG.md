@@ -254,3 +254,11 @@ Ce projet suit le [Versioning sémantique](https://semver.org/lang/fr/).
 [1.0.3]: https://github.com/Micpi/blaze-powerzone/compare/v1.0.2...v1.0.3
 [1.0.2]: https://github.com/Micpi/blaze-powerzone/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/Micpi/blaze-powerzone/releases/tag/v1.0.1
+
+## v1.0.7 - 2026-05-13
+
+- feat(integration): publish blaze-powerzone
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+
+

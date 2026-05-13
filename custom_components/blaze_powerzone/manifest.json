@@ -9,7 +9,7 @@
   "requirements": [
     "websockets>=12.0"
   ],
-  "version": "1.0.7",
+  "version": "1.0.8",
   "zeroconf": [
     {
       "type": "_pasconnect._tcp.local."

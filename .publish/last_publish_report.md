@@ -1,8 +1,8 @@
 # Publish Report
 
-- Date: 2026-05-13 16:56:20
-- Version: v1.0.9
-- Commit message: fix: add explicit icon reference to manifest.json for HA icon discovery
+- Date: 2026-05-13 17:02:00
+- Version: v1.0.10
+- Commit message: fix: add icon path to hacs.json for HACS display
 
 ## Changed files
 

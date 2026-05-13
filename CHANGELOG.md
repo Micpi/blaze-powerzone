@@ -159,4 +159,10 @@ Ce projet suit le [Versioning sémantique](https://semver.org/lang/fr/).
 - changed: custom_components/blaze_powerzone/manifest.json
 - changed: hacs.json
 
+## v1.0.10 - 2026-05-13
+
+- fix: add icon path to hacs.json for HACS display
+- changed: custom_components/blaze_powerzone/manifest.json
+- changed: hacs.json
+
 

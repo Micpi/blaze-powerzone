@@ -7,5 +7,6 @@
     "blaze_powerzone"
   ],
   "zip_release": false,
-  "version": "1.0.9"
+  "version": "1.0.10",
+  "icon": "custom_components/blaze_powerzone/icon.png"
 }

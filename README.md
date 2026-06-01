@@ -6,6 +6,7 @@
 [![HA Version](https://img.shields.io/badge/Home%20Assistant-2024.1%2B-blue?style=for-the-badge&logo=home-assistant)](https://www.home-assistant.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Version](https://img.shields.io/github/v/release/Micpi/blaze-powerzone?style=for-the-badge&label=Version)](https://github.com/Micpi/blaze-powerzone/releases/latest)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/mickaelpila)
 
 **Intégration complète Home Assistant pour les amplificateurs Blaze PowerZone Connect.**  
 Contrôlez vos amplificateurs de sonorisation professionnels directement depuis votre tableau de bord HA,
